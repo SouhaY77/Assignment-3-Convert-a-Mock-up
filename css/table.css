@@ -17,7 +17,6 @@ table   {
     border: 1px solid black;
     border-color: #ddd;
     box-shadow: 5px 20px 10px #ddd;
-
 }
 
 
@@ -42,7 +41,6 @@ thead {
 tbody{
     background-color: #fff;
 }
-
 
 td{
     border-bottom: 2px solid #cccccc;
